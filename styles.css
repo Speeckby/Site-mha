@@ -113,3 +113,16 @@ hr {
     border-radius: 3px;
     border: black solid 1px;
 }
+header div {
+    display: flex;    
+}
+header div a {
+    margin-top: 25px;
+    scale: 0.8;
+    height: 50px;
+    margin-right: 10px;
+}
+header div a:hover {
+    transform: scale(1.1);
+    transition: all 0.2s ease-in-out;
+}
