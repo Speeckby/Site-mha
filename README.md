@@ -1,8 +1,3 @@
-<style>
-    li {
-        list-style : "- ";
-    }
-</style>    
 # Site My Hero Academia
 Disponible sur : https://perso.univ-lemans.fr/~i2402967/mha/
 ## Résumé du projet 
